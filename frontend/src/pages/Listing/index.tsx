@@ -1,11 +1,12 @@
 import React from 'react';
+import Pagination from '../../components/Pagination';
 import './styles.scss';
 
 const Listing = () => {
 
     return(
 
-        <h1>Pagina de listagem</h1>
+        <Pagination />
     
     );
 
