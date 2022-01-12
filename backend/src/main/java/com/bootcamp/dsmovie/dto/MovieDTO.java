@@ -74,7 +74,6 @@ public class MovieDTO implements Serializable {
 	}
 	
 	
-	
-	
+
 
 }
