@@ -1,5 +1,5 @@
 import axios from 'axios';
-import React, { useEffect, useState } from 'react';
+import { useEffect, useState } from 'react';
 import MovieCard from '../../components/MovieCard';
 import Pagination from '../../components/Pagination';
 import { MoviePage } from '../../types/movie';
